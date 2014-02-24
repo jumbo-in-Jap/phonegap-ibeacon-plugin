@@ -11,11 +11,12 @@ IosIBeaconPlugin.h,IosIBeaconPlugin.m to classes.
 
 * write config.xml
 
-
+``
     <!-- My iBeacon plugin -->
     <feature name="IosIBeaconPlugin">
         <param name="ios-package" value="IosIBeaconPlugin" />
     </feature>
+``
 
 * use in html source.
 
