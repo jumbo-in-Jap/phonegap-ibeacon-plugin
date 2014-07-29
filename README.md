@@ -1,6 +1,5 @@
 phonegap-ibeacon-plugin
 =======================
-
 This plugin to use iBeacon advertise in phonegap application.
 
 ##how to use
